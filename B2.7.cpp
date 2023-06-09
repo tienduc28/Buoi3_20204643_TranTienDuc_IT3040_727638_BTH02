@@ -20,6 +20,8 @@ T arr_sum(T a[], int n, T b[], int m){
 int main() {
     int val;
     cin >> val;
+    // ACSGHCGAHSCGAUSCKGASHJKCGSAHJKDVGJHADFSVHGJLKASD
+    cin >> val;
 
     {
         int a[] = {3, 2, 0, val};
